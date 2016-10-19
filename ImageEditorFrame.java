@@ -5,7 +5,6 @@ import java.awt.image.*;
 import java.io.*;
 import javax.imageio.*;
 
-// Änderung der Datei
 public class ImageEditorFrame extends JFrame{
 	public ImageEditorFrame(){
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
