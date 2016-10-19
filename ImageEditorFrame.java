@@ -35,4 +35,8 @@ public class ImageEditorFrame extends JFrame{
 		JOptionPane.showMessageDialog(this, "Open Selected");
 	}
 	
+	// Naqib
+	panel = new ImageEditorPane();
+	add(panel);
+	
 }
